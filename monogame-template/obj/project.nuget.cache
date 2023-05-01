@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ZnE+GhdPXTJWlNLky7wHcGCp2rgigto+f+t24lgOV2ktIMVx6y59hNaWN6uHLtg/csA53JzfkRZRHm91vtX6A==",
+  "success": true,
+  "projectFilePath": "/Users/monicayoussef/Desktop/levels/monogame-template/monogame-template.csproj",
+  "expectedPackageFiles": [
+    "/Users/monicayoussef/.nuget/packages/autofac/5.2.0/autofac.5.2.0.nupkg.sha512",
+    "/Users/monicayoussef/.nuget/packages/monogame.content.builder.task/3.8.1.303/monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "/Users/monicayoussef/.nuget/packages/monogame.extended/3.8.0/monogame.extended.3.8.0.nupkg.sha512",
+    "/Users/monicayoussef/.nuget/packages/monogame.extended.content.pipeline/3.8.0/monogame.extended.content.pipeline.3.8.0.nupkg.sha512",
+    "/Users/monicayoussef/.nuget/packages/monogame.extended.graphics/3.8.0/monogame.extended.graphics.3.8.0.nupkg.sha512",
+    "/Users/monicayoussef/.nuget/packages/monogame.extended.tiled/3.8.0/monogame.extended.tiled.3.8.0.nupkg.sha512",
+    "/Users/monicayoussef/.nuget/packages/monogame.framework.desktopgl/3.8.1.303/monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "/Users/monicayoussef/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/monicayoussef/.nuget/packages/tiledcs/3.3.3/tiledcs.3.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

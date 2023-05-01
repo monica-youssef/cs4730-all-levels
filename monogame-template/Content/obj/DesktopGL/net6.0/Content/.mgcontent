@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/monicayoussef/Desktop/levels/monogame-template/Content/all_objects.png</File>
+    <File>/Users/monicayoussef/Desktop/levels/monogame-template/Content/allterrain.png</File>
+    <File>/Users/monicayoussef/Desktop/levels/monogame-template/Content/box2.png</File>
+    <File>/Users/monicayoussef/Desktop/levels/monogame-template/Content/coin.png</File>
+    <File>/Users/monicayoussef/Desktop/levels/monogame-template/Content/gem.png</File>
+    <File>/Users/monicayoussef/Desktop/levels/monogame-template/Content/heart.png</File>
+    <File>/Users/monicayoussef/Desktop/levels/monogame-template/Content/kirby_idle_left.png</File>
+    <File>/Users/monicayoussef/Desktop/levels/monogame-template/Content/kirby_idle_right.png</File>
+    <File>/Users/monicayoussef/Desktop/levels/monogame-template/Content/kirby_idle.png</File>
+    <File>/Users/monicayoussef/Desktop/levels/monogame-template/Content/kirby_jumping_left.png</File>
+    <File>/Users/monicayoussef/Desktop/levels/monogame-template/Content/kirby_jumping_right.png</File>
+    <File>/Users/monicayoussef/Desktop/levels/monogame-template/Content/kirby_long_scream_left.png</File>
+    <File>/Users/monicayoussef/Desktop/levels/monogame-template/Content/kirby_long_scream.png</File>
+    <File>/Users/monicayoussef/Desktop/levels/monogame-template/Content/kirby_sprite_sheet.png</File>
+    <File>/Users/monicayoussef/Desktop/levels/monogame-template/Content/kirby_walking_left.png</File>
+    <File>/Users/monicayoussef/Desktop/levels/monogame-template/Content/kirby_walking_right.png</File>
+    <File>/Users/monicayoussef/Desktop/levels/monogame-template/Content/merge_signs.png</File>
+    <File>/Users/monicayoussef/Desktop/levels/monogame-template/Content/notpassable2.png</File>
+    <File>/Users/monicayoussef/Desktop/levels/monogame-template/Content/passable2.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
