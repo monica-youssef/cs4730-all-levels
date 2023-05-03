@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>/Users/monicayoussef/Desktop/levels/monogame-template/Content/kirby_walking_right.png</SourceFile>
+  <SourceFile>/Users/monicayoussef/Desktop/cs4730-all-levels/monogame-template/Content/kirby_walking_right.png</SourceFile>
   <SourceTime>2023-02-20T11:58:59.6343321-05:00</SourceTime>
-  <DestFile>/Users/monicayoussef/Desktop/levels/monogame-template/Content/bin/DesktopGL/Content/kirby_walking_right.xnb</DestFile>
-  <DestTime>2023-05-01T16:25:34.5868871-04:00</DestTime>
+  <DestFile>/Users/monicayoussef/Desktop/cs4730-all-levels/monogame-template/Content/bin/DesktopGL/Content/kirby_walking_right.xnb</DestFile>
+  <DestTime>2023-05-01T16:44:06.119538-04:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

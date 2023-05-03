@@ -486,11 +486,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/monicayoussef/Desktop/levels/monogame-template/monogame-template.csproj",
+      "projectUniqueName": "/Users/monicayoussef/Desktop/cs4730-all-levels/monogame-template/monogame-template.csproj",
       "projectName": "monogame-template",
-      "projectPath": "/Users/monicayoussef/Desktop/levels/monogame-template/monogame-template.csproj",
+      "projectPath": "/Users/monicayoussef/Desktop/cs4730-all-levels/monogame-template/monogame-template.csproj",
       "packagesPath": "/Users/monicayoussef/.nuget/packages/",
-      "outputPath": "/Users/monicayoussef/Desktop/levels/monogame-template/obj/",
+      "outputPath": "/Users/monicayoussef/Desktop/cs4730-all-levels/monogame-template/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/monicayoussef/.nuget/NuGet/NuGet.Config"

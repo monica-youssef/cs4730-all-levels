@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6ZnE+GhdPXTJWlNLky7wHcGCp2rgigto+f+t24lgOV2ktIMVx6y59hNaWN6uHLtg/csA53JzfkRZRHm91vtX6A==",
+  "dgSpecHash": "MLdtvt2a6HLqJI9vgpgZV9D15UCg8F/zmEK+eyHBQaOiXadGUZ1zx8HwxwRzjml63DRwNNgVk0+1XZQEQpNsYQ==",
   "success": true,
-  "projectFilePath": "/Users/monicayoussef/Desktop/levels/monogame-template/monogame-template.csproj",
+  "projectFilePath": "/Users/monicayoussef/Desktop/cs4730-all-levels/monogame-template/monogame-template.csproj",
   "expectedPackageFiles": [
     "/Users/monicayoussef/.nuget/packages/autofac/5.2.0/autofac.5.2.0.nupkg.sha512",
     "/Users/monicayoussef/.nuget/packages/monogame.content.builder.task/3.8.1.303/monogame.content.builder.task.3.8.1.303.nupkg.sha512",
